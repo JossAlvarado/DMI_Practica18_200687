@@ -7,6 +7,8 @@
 
 ## Ingeniería en Desarrollo y Gestión de Software
 ## Josseline Alvarado Vargas
+## Lesly Y. Hernandez Bonilla
+## Jose Luis Galindo Picazo
 ## 10A
 ### Desarrollo Móvil Integral
 
